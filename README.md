@@ -1,6 +1,8 @@
 📊 Bank Marketing Prediction - Task 3 (Internship at Prodigy Infotech) 💼
 =========================================================================
 
+![](Task-3.png)
+
 This repository contains a machine learning project designed to predict whether a client will subscribe to a term deposit, based on various customer attributes. This is part of \*\*Task 3\*\* of my internship at \*\*Prodigy Infotech\*\*. The project involves data preprocessing, feature engineering, model training, and the development of an interactive web application for real-time predictions. 🚀
 
 🔍 Project Overview
