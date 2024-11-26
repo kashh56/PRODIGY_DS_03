@@ -16,17 +16,14 @@ The goal of this project is to build a predictive model using a \*\*Decision Tre
 *   🔧 Preprocess and clean the dataset, handle missing values, and encode categorical features.
 *   🧠 Train a \*\*Decision Tree Classifier\*\* to predict term deposit subscriptions.
 *   📊 Evaluate the model’s performance using various metrics such as accuracy and precision.
-*   🌐 Develop a user-friendly web application to make real-time predictions based on user input.
-*   🚀 Deploy the web application on a cloud platform for easy access.
+*   🌐Hyper-paramter tuning to improve the models metrics.
 
 📈 Expected Outcomes
 --------------------
 
 *   ✅ A trained \*\*Decision Tree Classifier\*\* model that can predict whether a client will subscribe to a term deposit.
 *   🔍 Detailed analysis and feature importance insights showing which client attributes are most influential in predicting subscription.
-*   💻 An interactive \*\*web application\*\* where users can enter personal details and receive real-time predictions on whether they will subscribe to a term deposit.
-*   🌍 Deployment of the application on a cloud platform for easy public access.
-
+*   
 🛠️ Methodology
 ---------------
 
@@ -34,19 +31,14 @@ The goal of this project is to build a predictive model using a \*\*Decision Tre
 *   **Feature Selection and Engineering:** 🎯 Select important features that impact the target variable (subscription to term deposit).
 *   **Model Training:** 🧑‍💻 Train a \*\*Decision Tree Classifier\*\* to predict term deposit subscriptions based on selected features.
 *   **Model Evaluation:** 📉 Evaluate the trained model using accuracy, precision, recall, and F1-score.
-*   **Web Application Development:** 🖥️ Build a simple web application using \*\*Streamlit\*\* or \*\*Flask\*\* to allow users to input their features and receive predictions.
-*   **Deployment:** 🌐 Deploy the application on \*\*Heroku\*\* or \*\*Streamlit Sharing\*\* for easy access by users.
 
 🧰 Technologies Used
 --------------------
 
 *   🐍 **Python** - For data processing, model training, and web application development.
 *   📚 **Scikit-learn** - For training the \*\*Decision Tree Classifier\*\* model.
-*   📦 **Streamlit/Flask** - For developing the interactive web application for real-time predictions.
-*   ☁️ **Streamlit Sharing** - For cloud deployment of the web application.
 
     
-
 👨‍💻 Contributors
 ------------------
 
